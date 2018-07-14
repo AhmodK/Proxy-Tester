@@ -1,8 +1,13 @@
 const request               =               require('request');
+
+
+
 /**
 * @param {Array} proxyArray - An Array of the proxies to be tested
 * @param {string} proxy - The Proxy that is going to be tested
 */
+
+
 
 class testProxy {
     constructor(proxy, endpoint) {
